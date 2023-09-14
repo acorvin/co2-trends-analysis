@@ -4,9 +4,27 @@ venv
 .venv
 .vscode
 .env
+.cfg
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints
 
 # Config files and folders
 .idea
+
+# Distribution / packaging
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+etc/
+lib/
+lib64/
+parts/
+sdist/
+share/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
