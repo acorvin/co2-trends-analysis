@@ -4,7 +4,7 @@ venv
 .venv
 .vscode
 .env
-.cfg
+*.cfg
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints
